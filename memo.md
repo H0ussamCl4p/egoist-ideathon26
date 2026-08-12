@@ -41,4 +41,4 @@ Recent 2026 research has consistently demonstrated the severity of memory-based 
 The literature converges on a single structurally effective defense: separating untrusted candidate memory from trusted typed memory and requiring runtime-mediated promotion (arXiv:2605.02812), enforced via strict **Hierarchical Namespaces**. Quarantine implements this exact tool-layer memory restriction and provides **Forensic Trajectory Signatures** in its logs. By recognizing that Egoist's inbox is already structurally identical to this defense, we mitigate the risk of cross-app memory poisoning.
 
 ## Link to the Build
-[Link to be added]
+https://github.com/H0ussamCl4p/egoist-ideathon26
